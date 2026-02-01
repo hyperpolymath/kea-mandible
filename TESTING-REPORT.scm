@@ -1,4 +1,4 @@
-;; SPDX-License-Identifier: AGPL-3.0-or-later
+;; SPDX-License-Identifier: PMPL-1.0-or-later
 ;; Kea-Mandible Testing Report
 ;; Machine-readable Guile Scheme format
 ;; Generated: 2025-12-29
